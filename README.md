@@ -1,8 +1,6 @@
 # Greymodels: Shiny App for Grey Forecasting Model
 
-Greymodels is a package that includes a Shiny application for an interactive interface for statistical modelling and forecasting using grey-based models. It covers 
-several state of-the-art univariate and multivariate grey models. A user friendly interface allows users to easily compare the performance of different models for 
-prediction and among others, visualize graphical plots of predicted values within user chosen confidence intervals.
+Greymodels is a Shiny application providing an interactive interface for statistical modelling and forecasting using grey-based models. It covers several state of-the-art univariate and multivariate grey models. A user friendly interface allows users to easily compare the performance of different models for prediction and among others, visualize graphical plots of predicted values within user chosen confidence intervals.
 
 ## Installation
 
@@ -32,7 +30,11 @@ run_app()
 
 ## Usage and data requirements
 
-The `Greymodels` package includes a [Help](videos/video1.md) tab and an [About the Package](videos/video3.md) tab in the interface. It loads data from spreadsheets and each model accepts a set of data and outputs the fitted and predicted values. For instance, download [file1.xlsx](data/file1.xlsx) in folder [data](data) and using the models under the **Background Values** tab, we follow 
+The `Greymodels` package includes a [Help](videos/video1.md) tab that gives the use of the package and the different models implemented and an [About Grey](videos/video3.md) tab that explain the different categories. 
+
+User data from a spreadsheet is easily loaded via "Browse" and the interface instantly provides information regarding fitted values, forecasts and interval estimates. Further, the user may visualize the raw, fitted, forecasted data along the confidence plot. This further serves in the evaluation of the fitted approach used.  
+
+As a matter of example, download [file1.xlsx](data/file1.xlsx) in folder [data](data) and using the models under the **Background Values** tab, we follow 
 
 Univariate Models $\rightarrow$ Background Values $\rightarrow$ EPGM (1, 1) model $\rightarrow$ Data Input
 
