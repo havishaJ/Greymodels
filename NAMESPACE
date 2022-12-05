@@ -1,0 +1,24 @@
+exportPattern("^[[:alpha:]]+")
+
+import(ggplot2)
+import(shiny)
+import(readxl)
+import(expm)
+import(shinyWidgets)
+import(shinydashboard)
+import(scales)
+import(particle.swarm.optimisation)
+importFrom(stats, qt)
+importFrom(utils, tail)
+importFrom(shiny, shinyApp)
+importFrom(Metrics, rmse)
+importFrom(Metrics, mape)
+importFrom(plotly, ggplotly)
+importFrom(cmna, quadratic)
+importFrom(plotly, renderPlotly)
+importFrom(plotly, plotlyOutput)
+importFrom(stats, lm)
+importFrom(dplyr, slice_tail)
+
+
+
