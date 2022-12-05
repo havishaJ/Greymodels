@@ -9,14 +9,14 @@ prediction and among others, visualize graphical plots of predicted values withi
 The latest release can be installed from CRAN:
 
 ``` r
-install.packages("Greymodels", type = "source")
+install.packages("Greymodels")
 ```
 
 The latest development version can be installed from GitHub:
 
 ``` r
 library(devtools)
-install_github("havishaJ/Greymodels", type = "source")
+install_github("havishaJ/Greymodels")
 
 ```
 
