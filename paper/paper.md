@@ -21,7 +21,7 @@ bibliography: paper.bib
 
 # Summary
 
-`Greymodels` is a Shiny [@Chang2021] application for statistical modelling and forecasting using grey-based models. It covers several state of-the-art univariate and multivariate grey models. A user friendly interface allows users to easily compare the performance of different models for prediction and among others, visualize graphical plots of predicted values within user chosen confidence intervals.
+`Greymodels` is a Shiny application providing an interactive interface for statistical modelling and forecasting using grey-based models. It covers several state of-the-art univariate and multivariate grey models. A user friendly interface allows users to easily compare the performance of different models for prediction and among others, visualize graphical plots of predicted values within user chosen confidence intervals.
 
 # Statement of need
 
