@@ -30,7 +30,7 @@ run_app()
 
 ## Usage and data requirements
 
-The `Greymodels` package includes a [Help](videos/video1.md) tab that gives the use of the package and the different models implemented and an [About Grey](videos/video3.md) tab that explain the different categories. 
+The `Greymodels` package includes a [Help](videos/video1.md) tab that gives the use of the package and the different models implemented and an [About Grey](videos/video3.md) tab that explain the different categories of the grey models. 
 
 User [data](data) from a spreadsheet is easily loaded via the Browse button and the interface instantly provides information on fitted values, forecasts and interval estimates. Further, the user may visualize the plot of the raw, fitted and interval estimates. This further serves in the evaluation of the fitted approach used.
 
