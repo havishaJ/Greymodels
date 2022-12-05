@@ -105,7 +105,7 @@ The **Plots** tab displays an interactive plot which can be saved in Portable Ne
 
 # Acknowledgments
 
-Thanks to the HEC Mauritius
+Thanks to the Higher Education Commission (HEC) Mauritius
 
 # References
 	
