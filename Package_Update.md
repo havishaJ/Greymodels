@@ -6,6 +6,7 @@ From version 1.0 to version 2.0, the following changes were made:
 * Package updated as per R project guidelines. 
 * The Greymodels package includes a Help tab that gives the use of the package and the different models implemented and an About Grey tab that explain the different categories of the grey models. An animated guide is also available to demonstrate the use of data.
 * Used git/GitHub to create package.
+* Bug in v1.0 has been sorted and updated to v2.0.
 
 From version 2.0 to version 2.0.1, the following changes were made:
 * Bug failing loading process corrected.
