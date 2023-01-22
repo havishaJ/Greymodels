@@ -89,7 +89,7 @@ The **Plots** tab displays an interactive plot which can be saved in Portable Ne
 | NGBM (1, 1) | [@Chen2008] | Combined Models |
 | GGVM (1, 1) | [@Weijie2020] | Combined Models |
 | TFDGM (1, 1) | [@Xxiao2020] | Combined Models |
-| SOGM (1, 1) | [@Ningxu2015] | Parameters Estimation |
+| SOGM (2, 1) | [@Ningxu2015] | Parameters Estimation |
 | NGM & ONGM | [@Pengyu2014] | Parameters Estimation |
 | PSO-GM (1, 1) | - | Optimization |
 | EGM (1, 1, r) | [@Bozeng2019] | Optimization |
