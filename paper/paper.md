@@ -83,7 +83,7 @@ The **Plots** tab displays an interactive plot which can be saved in Portable Ne
 | VSSGM (1, 1) | [@miao2020] | Extended Forms |
 | GOM (1, 1) | [@Zhu2016] | Extended Forms |
 | GOM_IA (1, 1) | [@Xiaoyi2013] | Extended Forms |
-| GOM (1, 1) | [@Youxin2012] | Extended Forms |
+| unbaised GOM (1, 1) | [@Youxin2012] | Extended Forms |
 | EXGM (1, 1) | [@Halis2020] | Extended Forms |
 | EGM (1, 1) | [@Der2011] | Extended Forms |
 | NGBM (1, 1) | [@Chen2008] | Combined Models |
